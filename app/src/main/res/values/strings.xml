@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="touch_to_play">Aperte o botão para jogar</string>
+    <string name="play">Jogar</string>
+</resources>
